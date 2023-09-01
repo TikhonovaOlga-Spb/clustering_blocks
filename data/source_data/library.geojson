@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "library",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, Гаванская улица, 18", "name": "Библиотека №4", "id": "node\/791553107", "amenity": "library", "x": 59.932662, "y": 30.239502 }, "geometry": { "type": "Point", "coordinates": [ 30.239502, 59.932662 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, Большой проспект Васильевского острова, 83", "name": "Дворец культуры имени С.М.Кирова", "id": "node\/800277759", "amenity": "library", "x": 59.933577, "y": 30.254001 }, "geometry": { "type": "Point", "coordinates": [ 30.254001, 59.933577 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, 8-я линия Васильевского острова, 61", "name": "Научная библиотека СЗАГС", "id": "node\/968478668", "amenity": "library", "x": 59.944562, "y": 30.273935 }, "geometry": { "type": "Point", "coordinates": [ 30.273935, 59.944562 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, Менделеевская линия, 2", "name": "Научная библиотека им. М. Горького СПбГУ", "id": "node\/968504821", "amenity": "library", "x": 59.941605, "y": 30.299312 }, "geometry": { "type": "Point", "coordinates": [ 30.299312, 59.941605 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, 6-я линия Васильевского острова, 17", "name": "Библиотека-филиал №2 имени Л.Н. Толстого", "id": "node\/977892489", "amenity": "library", "x": 59.941092, "y": 30.281409 }, "geometry": { "type": "Point", "coordinates": [ 30.281409, 59.941092 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, 16-я линия Васильевского острова, 65", "name": "Библиотека - Филиал №5", "id": "node\/996066153", "amenity": "library", "x": 59.942349, "y": 30.262876 }, "geometry": { "type": "Point", "coordinates": [ 30.262876, 59.942349 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, Тучков переулок, 15", "name": "Детская Библиотека #7", "id": "node\/2595736503", "amenity": "library", "x": 59.946144, "y": 30.287329 }, "geometry": { "type": "Point", "coordinates": [ 30.287329, 59.946144 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, 17-я линия Васильевского острова, 14", "name": "Юношеская библиотека №3 им. Н. Островского", "id": "node\/2754708662", "amenity": "library", "x": 59.936174, "y": 30.269246 }, "geometry": { "type": "Point", "coordinates": [ 30.269246, 59.936174 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, улица Нахимова, 8к3", "name": "Центральная районная библиотека имени М. В. Ломоносова", "id": "node\/3090173193", "amenity": "library", "x": 59.942732, "y": 30.23555 }, "geometry": { "type": "Point", "coordinates": [ 30.23555, 59.942732 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, проспект КИМа, 4", "name": "Библиотека №1 им.Н.Г.Чернышевского", "id": "node\/3354720828", "amenity": "library", "x": 59.948884, "y": 30.242125 }, "geometry": { "type": "Point", "coordinates": [ 30.242125, 59.948884 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, набережная Макарова, 4", "name": "Институт русской литературы РАН", "id": "node\/3517569237", "amenity": "library", "x": 59.94481, "y": 30.301396 }, "geometry": { "type": "Point", "coordinates": [ 30.301396, 59.94481 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, Морская набережная, 17Г", "name": "Библиотека \"На Морской\"", "id": "node\/5200801451", "amenity": "library", "x": 59.943755, "y": 30.207217 }, "geometry": { "type": "Point", "coordinates": [ 30.207217, 59.943755 ] } },
+{ "type": "Feature", "properties": { "yand_adr": "Россия, Санкт-Петербург, Биржевая линия, 1\/1", "name": "Библиотека Российской академии наук", "id": "relation\/1530759", "amenity": "library", "x": 59.943877, "y": 30.29686 }, "geometry": { "type": "Point", "coordinates": [ 30.29686, 59.943877 ] } }
+]
+}
