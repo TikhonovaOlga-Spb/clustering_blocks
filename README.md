@@ -17,11 +17,11 @@
 - znop.geojson - данные о зелёных насаждениях.
 
 
-Ссылка на ноутбук в nbviewer (при проблемах рендеринга средствами github): 
+Ссылка на ноутбук в nbviewer (при проблемах рендеринга средствами github):<br> 
 https://nbviewer.org/github/TikhonovaOlga-Spb/clustering_blocks/blob/main/clustering_pipeline_full.ipynb
 
-# Пример визуализации результата
-![image](https://github.com/TikhonovaOlga-Spb/clustering_blocks/assets/51425347/f86d2f0c-3ff6-49b0-b274-622e91bd08c2)
-![image](https://github.com/TikhonovaOlga-Spb/clustering_blocks/assets/51425347/da32e462-54df-4ffc-bed3-87bcc1e940ff)
+<b>Пример визуализации результата<b>
+<p>![image](https://github.com/TikhonovaOlga-Spb/clustering_blocks/assets/51425347/f86d2f0c-3ff6-49b0-b274-622e91bd08c2)</p>
+<p align='center'>![image](https://github.com/TikhonovaOlga-Spb/clustering_blocks/assets/51425347/da32e462-54df-4ffc-bed3-87bcc1e940ff)</p>
 
 
