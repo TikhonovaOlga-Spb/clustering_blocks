@@ -15,3 +15,6 @@
 - building.geojson - данные о зданиях (жилых и нежилых);
 - cemetery.geojson - данные о кладбищах;
 - znop.geojson - данные о зелёных насаждениях.
+
+
+Ссылка на ноутбук в nbviewer (при проблемах рендеринга средсвами github): https://nbviewer.org/github/TikhonovaOlga-Spb/clustering_blocks/blob/main/clustering_pipeline_full.ipynb
